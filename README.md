@@ -65,7 +65,7 @@ bowling-scorekeeping-system/
 
 **Eric Liao**  
 B.Sc. in Electrical Engineering, NTUST  
-[LinkedIn Profile](https://www.linkedin.com/in/kuan-yu-liao-a58452235)
+<!--[LinkedIn Profile](https://www.linkedin.com/in/kuan-yu-liao-a58452235)--> 
 
 ---
 
