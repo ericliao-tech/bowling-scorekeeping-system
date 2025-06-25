@@ -63,7 +63,7 @@ bowling-scorekeeping-system/
 
 ## 👨‍💻 Author
 
-**Kuan-Yu (Eric) Liao**  
+**Eric Liao**  
 B.Sc. in Electrical Engineering, NTUST  
 [LinkedIn Profile](https://www.linkedin.com/in/kuan-yu-liao-a58452235)
 
